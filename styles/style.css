@@ -353,7 +353,7 @@
  }
  /* For Tablet Device */
  
- @media only screen and (min-width:489px) and (max-width:768px) {
+ @media only screen and (min-width:489px) and (max-width:888px) {
      .nav-logo h1 {
          margin-left: 90px;
      }
