@@ -134,7 +134,7 @@
      display: flex;
      flex-direction: column;
      align-items: center;
-     margin-bottom: 240px;
+     margin-bottom: 150px;
  }
  
  .product-heading {
@@ -218,6 +218,38 @@
      margin-left: 5px;
  }
  /* Product Section Style End */
+ /* Join-Area-Style Start */
+ 
+ .join-area {
+     background-color: #0A0826;
+     padding: 50px 0;
+ }
+ 
+ .join-area-text h1 {
+     text-align: center;
+     color: #f3f3f3;
+     margin-bottom: 20px;
+     font-size: 40px;
+ }
+ 
+ .join-area-signup {
+     text-align: center;
+ }
+ 
+ .join-area-signup input {
+     padding: 10px 5px;
+     border-radius: 10px;
+     border: none;
+     font-size: 18px;
+ }
+ 
+ .join-area-signup button {
+     padding: 12px 15px;
+     border-radius: 10px;
+     border: none;
+     font-size: 16px;
+ }
+ /* Join-Area-Style End */
  /* Footer Style */
  
  footer {
