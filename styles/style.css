@@ -284,8 +284,9 @@
      .influencer-preview .influencer-preview-img {
          width: auto;
          height: auto;
-         margin-top: 25px;
+         margin-top: 50px;
          margin-left: 10px;
+         margin-bottom: 0;
      }
      .influencer-preview .influencer-preview-img img {
          width: 100%;
